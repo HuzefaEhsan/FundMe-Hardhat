@@ -17,7 +17,7 @@
 ## Quickstart
 
 ```
-git clone https://github.com/HuzefaEhsan/hardhat-fund-me-fcc
+git clone https://github.com/HuzefaEhsan/FundMe-Hardhat
 cd hardhat-fund-me-fcc
 yarn
 ```
